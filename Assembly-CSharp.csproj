@@ -50,6 +50,11 @@
      <Compile Include="Assets\Scripts\PressurePad.cs" />
      <Compile Include="Assets\Scripts\Activatable.cs" />
      <Compile Include="Assets\Scripts\ActivatorDoor.cs" />
+     <Compile Include="Assets\Scripts\Collectible.cs" />
+     <Compile Include="Assets\Scripts\Checkpoint.cs" />
+     <Compile Include="Assets\Scripts\SmoothCamera.cs" />
+     <Compile Include="Assets\Scripts\PickupItem.cs" />
+     <Compile Include="Assets\PlayerStatManager.cs" />
     <Reference Include="UnityEngine">
         <HintPath>/Users/gregorynimmo/Desktop/Game Development/Unity Editors/2020.3.12f1/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>

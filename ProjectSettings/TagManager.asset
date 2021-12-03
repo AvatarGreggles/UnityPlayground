@@ -44,12 +44,15 @@ TagManager:
   - name: Level_Border
     uniqueID: 491607797
     locked: 0
+  - name: Collectible
+    uniqueID: 32705883
+    locked: 0
+  - name: Pressure_Pad
+    uniqueID: 2908342417
+    locked: 0
   - name: Player
     uniqueID: 1546905213
     locked: 0
   - name: NPC
     uniqueID: 907368389
-    locked: 0
-  - name: Pressure_Pad
-    uniqueID: 2908342417
     locked: 0
